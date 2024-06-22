@@ -21,7 +21,8 @@ Listen:
 
   Hier kann man einen Link platzieren
   (Link) (https://www.google.com/)
-
+  [Link] (https://www.google.com/)
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
   So wird ein Bild eingebindet
   - Erste Art.
    ![Bildbeschreibung](https://cdn.rawgit.com/)
